@@ -4,6 +4,17 @@
 
 PROBLEM 1: MOVE A POINT ON THE SPHERE
 
+IDEAS:
+- fluff(SURAJ)
+-
+-
+-
+
+
+
+
+
+
 Julianna's Code here:
 
 Li Ting's Code here:
