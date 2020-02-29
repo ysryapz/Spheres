@@ -1,0 +1,18 @@
+Moving a single point over the sphere->Given a time t tell me where my point is on the sphere. You are given initial conditions i.e. starting pos and vel on sphere.
+Moving multiple points over the sphere
+Creating a circle on the sphere
+Moving a wholeass circle on the sphere
+Changing size of circle as it moves 
+Coming up with a good growth rule
+Checking overlap of circles
+Coming up with collision rules for circles
+Writing the Billiard Collision Algo for a flat surface to understand its performance
+Moving the algo to the sphere
+(Optional) Imaging the circles
+
+
+Stage 1:
+(1)
+(3)
+maybe (9)
+(2)
