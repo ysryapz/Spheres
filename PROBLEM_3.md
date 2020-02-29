@@ -10,6 +10,8 @@ IDEAS:
 
 Julianna's Code here:
 
+- Julianna Test trial 
+
 Li Ting's Code here:
 
 Marcus' Code here:
