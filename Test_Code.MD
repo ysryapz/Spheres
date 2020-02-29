@@ -8,3 +8,6 @@ A=polygon.SphericalPolygon([[0,0,1],[0,1,0],[1,0,0]])
 print(A.area())
 #Result=pi/2
 ```
+
+
+
